@@ -1,0 +1,1594 @@
+Using 20 of 20 features
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-0.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-0.csv
+Loading dataset ...
+... using feature selection: 20 features
+Training the model ...
+... Training took 950.8441569805145s
+Performing predictions on testset ...
+... Inference took 24.57407259941101s
+Accuracy: 0.9118187465461797 (10526387 Samples)
+Accuracy on malicious class: 0.7618715978293972 (2357686 Samples)
+Accuracy on normal class: 0.9550971445765979 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.93      0.96      0.94   8168701
+   malicious       0.83      0.76      0.79   2357686
+
+   micro avg       0.91      0.91      0.91  10526387
+   macro avg       0.88      0.86      0.87  10526387
+weighted avg       0.91      0.91      0.91  10526387
+
+Loading dataset ...
+... using feature selection: 20 features
+Swapping train and test-set
+Training the model ...
+... Training took 943.2466745376587s
+Performing predictions on testset ...
+... Inference took 23.98747229576111s
+Accuracy: 0.937554953901606 (10853415 Samples)
+Accuracy on malicious class: 0.7859062515684816 (219161 Samples)
+Accuracy on normal class: 0.9406802771496713 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       1.00      0.94      0.97  10634254
+   malicious       0.21      0.79      0.34    219161
+
+   micro avg       0.94      0.94      0.94  10853415
+   macro avg       0.60      0.86      0.65  10853415
+weighted avg       0.98      0.94      0.95  10853415
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-1.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-1.csv
+Loading dataset ...
+... using feature selection: 20 features
+Training the model ...
+... Training took 1244.6755294799805s
+Performing predictions on testset ...
+... Inference took 19.36836552619934s
+Accuracy: 0.9867910665234618 (8458745 Samples)
+Accuracy on malicious class: 0.6202231385582877 (290044 Samples)
+Accuracy on normal class: 0.9998067012123469 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.99      1.00      0.99   8168701
+   malicious       0.99      0.62      0.76    290044
+
+   micro avg       0.99      0.99      0.99   8458745
+   macro avg       0.99      0.81      0.88   8458745
+weighted avg       0.99      0.99      0.99   8458745
+
+Loading dataset ...
+... using feature selection: 20 features
+Swapping train and test-set
+Training the model ...
+... Training took 657.3694438934326s
+Performing predictions on testset ...
+... Inference took 28.775022983551025s
+Accuracy: 0.9499974344204193 (12921057 Samples)
+Accuracy on malicious class: 0.9889006617535485 (2286803 Samples)
+Accuracy on normal class: 0.941631636784301 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       1.00      0.94      0.97  10634254
+   malicious       0.78      0.99      0.88   2286803
+
+   micro avg       0.95      0.95      0.95  12921057
+   macro avg       0.89      0.97      0.92  12921057
+weighted avg       0.96      0.95      0.95  12921057
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-2.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-2.csv
+Loading dataset ...
+... using feature selection: 20 features
+Training the model ...
+... Training took 950.380565404892s
+Performing predictions on testset ...
+... Inference took 24.39804482460022s
+Accuracy: 0.8773854066708049 (10505389 Samples)
+Accuracy on malicious class: 0.6177559862506248 (2336688 Samples)
+Accuracy on normal class: 0.9516533901779487 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.90      0.95      0.92   8168701
+   malicious       0.79      0.62      0.69   2336688
+
+   micro avg       0.88      0.88      0.88  10505389
+   macro avg       0.84      0.78      0.81  10505389
+weighted avg       0.87      0.88      0.87  10505389
+
+Loading dataset ...
+... using feature selection: 20 features
+Swapping train and test-set
+Training the model ...
+... Training took 919.1339926719666s
+Performing predictions on testset ...
+... Inference took 23.953776597976685s
+Accuracy: 0.9339454920463293 (10874413 Samples)
+Accuracy on malicious class: 0.6226791417352671 (240159 Samples)
+Accuracy on normal class: 0.9409749851752648 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.99      0.94      0.97  10634254
+   malicious       0.19      0.62      0.29    240159
+
+   micro avg       0.93      0.93      0.93  10874413
+   macro avg       0.59      0.78      0.63  10874413
+weighted avg       0.97      0.93      0.95  10874413
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-3.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-3.csv
+Loading dataset ...
+... using feature selection: 20 features
+Training the model ...
+... Training took 1096.5851955413818s
+Performing predictions on testset ...
+... Inference took 22.22650718688965s
+Accuracy: 0.9441114800530727 (9454965 Samples)
+Accuracy on malicious class: 0.8778058003644664 (1286264 Samples)
+Accuracy on normal class: 0.9545521374818347 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.98      0.95      0.97   8168701
+   malicious       0.75      0.88      0.81   1286264
+
+   micro avg       0.94      0.94      0.94   9454965
+   macro avg       0.87      0.92      0.89   9454965
+weighted avg       0.95      0.94      0.95   9454965
+
+Loading dataset ...
+... using feature selection: 20 features
+Swapping train and test-set
+Training the model ...
+... Training took 789.3435201644897s
+Performing predictions on testset ...
+... Inference took 26.394866704940796s
+Accuracy: 0.8450561630318301 (11924837 Samples)
+Accuracy on malicious class: 0.048299876877349227 (1290583 Samples)
+Accuracy on normal class: 0.9417512502522509 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.89      0.94      0.92  10634254
+   malicious       0.09      0.05      0.06   1290583
+
+   micro avg       0.85      0.85      0.85  11924837
+   macro avg       0.49      0.50      0.49  11924837
+weighted avg       0.80      0.85      0.82  11924837
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-4.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-4.csv
+Loading dataset ...
+... using feature selection: 20 features
+Training the model ...
+... Training took 950.2987651824951s
+Performing predictions on testset ...
+... Inference took 25.30545401573181s
+Accuracy: 0.8961660931029553 (10693087 Samples)
+Accuracy on malicious class: 0.570790679396891 (2524386 Samples)
+Accuracy on normal class: 0.9967173483274758 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.88      1.00      0.94   8168701
+   malicious       0.98      0.57      0.72   2524386
+
+   micro avg       0.90      0.90      0.90  10693087
+   macro avg       0.93      0.78      0.83  10693087
+weighted avg       0.91      0.90      0.89  10693087
+
+Loading dataset ...
+... using feature selection: 20 features
+Swapping train and test-set
+Training the model ...
+... Training took 960.8006403446198s
+Performing predictions on testset ...
+... Inference took 23.949766635894775s
+Accuracy: 0.9394482776044837 (10686715 Samples)
+Accuracy on malicious class: 0.6357675225405539 (52461 Samples)
+Accuracy on normal class: 0.9409463983087107 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       1.00      0.94      0.97  10634254
+   malicious       0.05      0.64      0.09     52461
+
+   micro avg       0.94      0.94      0.94  10686715
+   macro avg       0.52      0.79      0.53  10686715
+weighted avg       0.99      0.94      0.96  10686715
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-5.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-5.csv
+Loading dataset ...
+... using feature selection: 20 features
+Training the model ...
+... Training took 1158.0465099811554s
+Performing predictions on testset ...
+... Inference took 19.42275333404541s
+Accuracy: 0.9696385705983567 (8502103 Samples)
+Accuracy on malicious class: 0.23193922052057275 (333402 Samples)
+Accuracy on normal class: 0.9997474506656566 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.97      1.00      0.98   8168701
+   malicious       0.97      0.23      0.37    333402
+
+   micro avg       0.97      0.97      0.97   8502103
+   macro avg       0.97      0.62      0.68   8502103
+weighted avg       0.97      0.97      0.96   8502103
+
+Loading dataset ...
+... using feature selection: 20 features
+Swapping train and test-set
+Training the model ...
+... Training took 682.8542840480804s
+Performing predictions on testset ...
+... Inference took 29.474353313446045s
+Accuracy: 0.8706080954369255 (12877699 Samples)
+Accuracy on malicious class: 0.5342796458125785 (2243445 Samples)
+Accuracy on normal class: 0.9415612980468587 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.91      0.94      0.92  10634254
+   malicious       0.66      0.53      0.59   2243445
+
+   micro avg       0.87      0.87      0.87  12877699
+   macro avg       0.78      0.74      0.76  12877699
+weighted avg       0.86      0.87      0.87  12877699
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-6.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-6.csv
+Loading dataset ...
+... using feature selection: 20 features
+Training the model ...
+... Training took 1097.8252642154694s
+Performing predictions on testset ...
+... Inference took 22.656713008880615s
+Accuracy: 0.8829220354406346 (9551917 Samples)
+Accuracy on malicious class: 0.19176831384252352 (1383216 Samples)
+Accuracy on normal class: 0.999955929345437 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.88      1.00      0.94   8168701
+   malicious       1.00      0.19      0.32   1383216
+
+   micro avg       0.88      0.88      0.88   9551917
+   macro avg       0.94      0.60      0.63   9551917
+weighted avg       0.90      0.88      0.85   9551917
+
+Loading dataset ...
+... using feature selection: 20 features
+Swapping train and test-set
+Training the model ...
+... Training took 795.3893902301788s
+Performing predictions on testset ...
+... Inference took 26.101738929748535s
+Accuracy: 0.9443647786565392 (11827885 Samples)
+Accuracy on malicious class: 0.9800826218487958 (1193631 Samples)
+Accuracy on normal class: 0.9403556657570903 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       1.00      0.94      0.97  10634254
+   malicious       0.65      0.98      0.78   1193631
+
+   micro avg       0.94      0.94      0.94  11827885
+   macro avg       0.82      0.96      0.87  11827885
+weighted avg       0.96      0.94      0.95  11827885
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-7.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-7.csv
+Loading dataset ...
+... using feature selection: 20 features
+Training the model ...
+... Training took 905.4353160858154s
+Performing predictions on testset ...
+... Inference took 24.432981491088867s
+Accuracy: 0.940729677961201 (10593413 Samples)
+Accuracy on malicious class: 0.7440850707218012 (2424712 Samples)
+Accuracy on normal class: 0.9990996120435796 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.93      1.00      0.96   8168701
+   malicious       1.00      0.74      0.85   2424712
+
+   micro avg       0.94      0.94      0.94  10593413
+   macro avg       0.96      0.87      0.91  10593413
+weighted avg       0.94      0.94      0.94  10593413
+
+Loading dataset ...
+... using feature selection: 20 features
+Swapping train and test-set
+Training the model ...
+... Training took 952.1899049282074s
+Performing predictions on testset ...
+... Inference took 25.29920744895935s
+Accuracy: 0.9376049760489817 (10786389 Samples)
+Accuracy on malicious class: 0.7374042790942256 (152135 Samples)
+Accuracy on normal class: 0.940469072865854 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       1.00      0.94      0.97  10634254
+   malicious       0.15      0.74      0.25    152135
+
+   micro avg       0.94      0.94      0.94  10786389
+   macro avg       0.57      0.84      0.61  10786389
+weighted avg       0.98      0.94      0.96  10786389
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-8.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-8.csv
+Loading dataset ...
+... using feature selection: 20 features
+Training the model ...
+... Training took 1119.9685566425323s
+Performing predictions on testset ...
+... Inference took 19.085254907608032s
+Accuracy: 0.9718474286345193 (8414187 Samples)
+Accuracy on malicious class: 0.21544202113358807 (245486 Samples)
+Accuracy on normal class: 0.9945789422332878 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.98      0.99      0.99   8168701
+   malicious       0.54      0.22      0.31    245486
+
+   micro avg       0.97      0.97      0.97   8414187
+   macro avg       0.76      0.61      0.65   8414187
+weighted avg       0.96      0.97      0.97   8414187
+
+Loading dataset ...
+... using feature selection: 20 features
+Swapping train and test-set
+Training the model ...
+... Training took 732.4772236347198s
+Performing predictions on testset ...
+... Inference took 30.156164169311523s
+Accuracy: 0.9287621913808176 (12965615 Samples)
+Accuracy on malicious class: 0.6047248795875028 (2331361 Samples)
+Accuracy on normal class: 0.9998013024703002 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.92      1.00      0.96  10634254
+   malicious       1.00      0.60      0.75   2331361
+
+   micro avg       0.93      0.93      0.93  12965615
+   macro avg       0.96      0.80      0.86  12965615
+weighted avg       0.93      0.93      0.92  12965615
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-9.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-9.csv
+Loading dataset ...
+... using feature selection: 20 features
+Training the model ...
+... Training took 1208.4549028873444s
+Performing predictions on testset ...
+... Inference took 19.25821805000305s
+Accuracy: 0.9746522828787436 (8452201 Samples)
+Accuracy on malicious class: 0.25110405643738976 (283500 Samples)
+Accuracy on normal class: 0.9997634874871782 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.97      1.00      0.99   8168701
+   malicious       0.97      0.25      0.40    283500
+
+   micro avg       0.97      0.97      0.97   8452201
+   macro avg       0.97      0.63      0.69   8452201
+weighted avg       0.97      0.97      0.97   8452201
+
+Loading dataset ...
+... using feature selection: 20 features
+Swapping train and test-set
+Training the model ...
+... Training took 667.140711069107s
+Performing predictions on testset ...
+... Inference took 29.155239582061768s
+Accuracy: 0.8633795241669355 (12927601 Samples)
+Accuracy on malicious class: 0.500890619692528 (2293347 Samples)
+Accuracy on normal class: 0.9415526467582963 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.90      0.94      0.92  10634254
+   malicious       0.65      0.50      0.57   2293347
+
+   micro avg       0.86      0.86      0.86  12927601
+   macro avg       0.77      0.72      0.74  12927601
+weighted avg       0.85      0.86      0.86  12927601
+
+Total train time: 18782.46054792404s | Traintime/sample: 87.8514241989895us
+Total inference time: 487.9759736061096s | Inferencetime/sample: 2.282415775441277us
+--- Metrics of normal class ---
+Precision (mean, std): (0.9499421492657725, 0.04407037069042285)
+Recall (mean, std): (0.9660348338559972, 0.02702789048625261)
+F1 (mean, std): (0.9570807434285555, 0.023552580238675513)
+
+--- Metrics of malicious class ---
+Precision (mean, std): (0.6632977340591295, 0.3321227184309946)
+Recall (mean, std): (0.5760860692783187, 0.2603355912366752)
+F1 (mean, std): (0.5319636484569699, 0.25682428030926396)
+Took: 21333.08948278427
+Using 15 of 20 features
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-0.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-0.csv
+Loading dataset ...
+... using feature selection: 15 features
+Training the model ...
+... Training took 780.1521284580231s
+Performing predictions on testset ...
+... Inference took 24.668542861938477s
+Accuracy: 0.9117593719478487 (10526387 Samples)
+Accuracy on malicious class: 0.7681489392565423 (2357686 Samples)
+Accuracy on normal class: 0.9532088394470553 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.93      0.95      0.94   8168701
+   malicious       0.83      0.77      0.80   2357686
+
+   micro avg       0.91      0.91      0.91  10526387
+   macro avg       0.88      0.86      0.87  10526387
+weighted avg       0.91      0.91      0.91  10526387
+
+Loading dataset ...
+... using feature selection: 15 features
+Swapping train and test-set
+Training the model ...
+... Training took 821.1150281429291s
+Performing predictions on testset ...
+... Inference took 24.509214878082275s
+Accuracy: 0.9354824264989406 (10853415 Samples)
+Accuracy on malicious class: 0.7039664903883447 (219161 Samples)
+Accuracy on normal class: 0.9402537310092461 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.99      0.94      0.97  10634254
+   malicious       0.20      0.70      0.31    219161
+
+   micro avg       0.94      0.94      0.94  10853415
+   macro avg       0.59      0.82      0.64  10853415
+weighted avg       0.98      0.94      0.95  10853415
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-1.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-1.csv
+Loading dataset ...
+... using feature selection: 15 features
+Training the model ...
+... Training took 1035.1272439956665s
+Performing predictions on testset ...
+... Inference took 19.88241720199585s
+Accuracy: 0.9852768939127494 (8458745 Samples)
+Accuracy on malicious class: 0.5732337162637393 (290044 Samples)
+Accuracy on normal class: 0.9999072067884478 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.99      1.00      0.99   8168701
+   malicious       1.00      0.57      0.73    290044
+
+   micro avg       0.99      0.99      0.99   8458745
+   macro avg       0.99      0.79      0.86   8458745
+weighted avg       0.99      0.99      0.98   8458745
+
+Loading dataset ...
+... using feature selection: 15 features
+Swapping train and test-set
+Training the model ...
+... Training took 573.3085134029388s
+Performing predictions on testset ...
+... Inference took 28.952539920806885s
+Accuracy: 0.9496775689481132 (12921057 Samples)
+Accuracy on malicious class: 0.9864986183768344 (2286803 Samples)
+Accuracy on normal class: 0.9417595253978324 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       1.00      0.94      0.97  10634254
+   malicious       0.78      0.99      0.87   2286803
+
+   micro avg       0.95      0.95      0.95  12921057
+   macro avg       0.89      0.96      0.92  12921057
+weighted avg       0.96      0.95      0.95  12921057
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-2.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-2.csv
+Loading dataset ...
+... using feature selection: 15 features
+Training the model ...
+... Training took 822.1713337898254s
+Performing predictions on testset ...
+... Inference took 25.011007070541382s
+Accuracy: 0.8854893426602289 (10505389 Samples)
+Accuracy on malicious class: 0.6326398731880336 (2336688 Samples)
+Accuracy on normal class: 0.957817895403443 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.90      0.96      0.93   8168701
+   malicious       0.81      0.63      0.71   2336688
+
+   micro avg       0.89      0.89      0.89  10505389
+   macro avg       0.86      0.80      0.82  10505389
+weighted avg       0.88      0.89      0.88  10505389
+
+Loading dataset ...
+... using feature selection: 15 features
+Swapping train and test-set
+Training the model ...
+... Training took 834.8694531917572s
+Performing predictions on testset ...
+... Inference took 25.03740167617798s
+Accuracy: 0.9331161139456446 (10874413 Samples)
+Accuracy on malicious class: 0.5858577026053573 (240159 Samples)
+Accuracy on normal class: 0.9409584348841019 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.99      0.94      0.96  10634254
+   malicious       0.18      0.59      0.28    240159
+
+   micro avg       0.93      0.93      0.93  10874413
+   macro avg       0.59      0.76      0.62  10874413
+weighted avg       0.97      0.93      0.95  10874413
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-3.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-3.csv
+Loading dataset ...
+... using feature selection: 15 features
+Training the model ...
+... Training took 902.9744291305542s
+Performing predictions on testset ...
+... Inference took 21.864936590194702s
+Accuracy: 0.985862348512131 (9454965 Samples)
+Accuracy on malicious class: 0.9153781805290361 (1286264 Samples)
+Accuracy on normal class: 0.9969609611124217 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.99      1.00      0.99   8168701
+   malicious       0.98      0.92      0.95   1286264
+
+   micro avg       0.99      0.99      0.99   9454965
+   macro avg       0.98      0.96      0.97   9454965
+weighted avg       0.99      0.99      0.99   9454965
+
+Loading dataset ...
+... using feature selection: 15 features
+Swapping train and test-set
+Training the model ...
+... Training took 705.6416440010071s
+Performing predictions on testset ...
+... Inference took 26.987619400024414s
+Accuracy: 0.8448895360162995 (11924837 Samples)
+Accuracy on malicious class: 0.04666263231423318 (1290583 Samples)
+Accuracy on normal class: 0.9417630987561516 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.89      0.94      0.92  10634254
+   malicious       0.09      0.05      0.06   1290583
+
+   micro avg       0.84      0.84      0.84  11924837
+   macro avg       0.49      0.49      0.49  11924837
+weighted avg       0.80      0.84      0.82  11924837
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-4.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-4.csv
+Loading dataset ...
+... using feature selection: 15 features
+Training the model ...
+... Training took 772.856303691864s
+Performing predictions on testset ...
+... Inference took 25.64822483062744s
+Accuracy: 0.876412770231833 (10693087 Samples)
+Accuracy on malicious class: 0.4778742236726079 (2524386 Samples)
+Accuracy on normal class: 0.9995737388355872 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.86      1.00      0.93   8168701
+   malicious       1.00      0.48      0.65   2524386
+
+   micro avg       0.88      0.88      0.88  10693087
+   macro avg       0.93      0.74      0.79  10693087
+weighted avg       0.89      0.88      0.86  10693087
+
+Loading dataset ...
+... using feature selection: 15 features
+Swapping train and test-set
+Training the model ...
+... Training took 848.9261901378632s
+Performing predictions on testset ...
+... Inference took 24.700748920440674s
+Accuracy: 0.93953661157802 (10686715 Samples)
+Accuracy on malicious class: 0.6082804368959799 (52461 Samples)
+Accuracy on normal class: 0.941170767596862 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       1.00      0.94      0.97  10634254
+   malicious       0.05      0.61      0.09     52461
+
+   micro avg       0.94      0.94      0.94  10686715
+   macro avg       0.52      0.77      0.53  10686715
+weighted avg       0.99      0.94      0.96  10686715
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-5.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-5.csv
+Loading dataset ...
+... using feature selection: 15 features
+Training the model ...
+... Training took 1014.134753704071s
+Performing predictions on testset ...
+... Inference took 19.554147958755493s
+Accuracy: 0.9690961165725703 (8502103 Samples)
+Accuracy on malicious class: 0.21630344149105285 (333402 Samples)
+Accuracy on normal class: 0.99982102417508 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.97      1.00      0.98   8168701
+   malicious       0.98      0.22      0.35    333402
+
+   micro avg       0.97      0.97      0.97   8502103
+   macro avg       0.97      0.61      0.67   8502103
+weighted avg       0.97      0.97      0.96   8502103
+
+Loading dataset ...
+... using feature selection: 15 features
+Swapping train and test-set
+Training the model ...
+... Training took 574.9533190727234s
+Performing predictions on testset ...
+... Inference took 28.666340827941895s
+Accuracy: 0.8402631557081742 (12877699 Samples)
+Accuracy on malicious class: 0.35983543166870596 (2243445 Samples)
+Accuracy on normal class: 0.9416161208863358 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.87      0.94      0.91  10634254
+   malicious       0.57      0.36      0.44   2243445
+
+   micro avg       0.84      0.84      0.84  12877699
+   macro avg       0.72      0.65      0.67  12877699
+weighted avg       0.82      0.84      0.83  12877699
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-6.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-6.csv
+Loading dataset ...
+... using feature selection: 15 features
+Training the model ...
+... Training took 923.7920587062836s
+Performing predictions on testset ...
+... Inference took 22.175942182540894s
+Accuracy: 0.889911627163427 (9551917 Samples)
+Accuracy on malicious class: 0.2399242056193682 (1383216 Samples)
+Accuracy on normal class: 0.9999747817921111 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.89      1.00      0.94   8168701
+   malicious       1.00      0.24      0.39   1383216
+
+   micro avg       0.89      0.89      0.89   9551917
+   macro avg       0.94      0.62      0.66   9551917
+weighted avg       0.90      0.89      0.86   9551917
+
+Loading dataset ...
+... using feature selection: 15 features
+Swapping train and test-set
+Training the model ...
+... Training took 703.624918460846s
+Performing predictions on testset ...
+... Inference took 25.702648401260376s
+Accuracy: 0.9450010716201587 (11827885 Samples)
+Accuracy on malicious class: 0.9816283256718366 (1193631 Samples)
+Accuracy on normal class: 0.9408898828258193 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       1.00      0.94      0.97  10634254
+   malicious       0.65      0.98      0.78   1193631
+
+   micro avg       0.95      0.95      0.95  11827885
+   macro avg       0.82      0.96      0.88  11827885
+weighted avg       0.96      0.95      0.95  11827885
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-7.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-7.csv
+Loading dataset ...
+... using feature selection: 15 features
+Training the model ...
+... Training took 760.4374666213989s
+Performing predictions on testset ...
+... Inference took 24.449703693389893s
+Accuracy: 0.9500836038394802 (10593413 Samples)
+Accuracy on malicious class: 0.7820211225085701 (2424712 Samples)
+Accuracy on normal class: 0.9999695177972605 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.94      1.00      0.97   8168701
+   malicious       1.00      0.78      0.88   2424712
+
+   micro avg       0.95      0.95      0.95  10593413
+   macro avg       0.97      0.89      0.92  10593413
+weighted avg       0.95      0.95      0.95  10593413
+
+Loading dataset ...
+... using feature selection: 15 features
+Swapping train and test-set
+Training the model ...
+... Training took 817.3670334815979s
+Performing predictions on testset ...
+... Inference took 24.015101432800293s
+Accuracy: 0.9357511582421142 (10786389 Samples)
+Accuracy on malicious class: 0.6242810661583462 (152135 Samples)
+Accuracy on normal class: 0.9402070892796053 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.99      0.94      0.97  10634254
+   malicious       0.13      0.62      0.22    152135
+
+   micro avg       0.94      0.94      0.94  10786389
+   macro avg       0.56      0.78      0.59  10786389
+weighted avg       0.98      0.94      0.96  10786389
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-8.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-8.csv
+Loading dataset ...
+... using feature selection: 15 features
+Training the model ...
+... Training took 969.8281805515289s
+Performing predictions on testset ...
+... Inference took 18.623630046844482s
+Accuracy: 0.9734150191812947 (8414187 Samples)
+Accuracy on malicious class: 0.2084518058056264 (245486 Samples)
+Accuracy on normal class: 0.9964037121691687 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.98      1.00      0.99   8168701
+   malicious       0.64      0.21      0.31    245486
+
+   micro avg       0.97      0.97      0.97   8414187
+   macro avg       0.81      0.60      0.65   8414187
+weighted avg       0.97      0.97      0.97   8414187
+
+Loading dataset ...
+... using feature selection: 15 features
+Swapping train and test-set
+Training the model ...
+... Training took 594.8562486171722s
+Performing predictions on testset ...
+... Inference took 28.958998203277588s
+Accuracy: 0.9128136228015409 (12965615 Samples)
+Accuracy on malicious class: 0.5162846937904512 (2331361 Samples)
+Accuracy on normal class: 0.9997451631303897 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.90      1.00      0.95  10634254
+   malicious       1.00      0.52      0.68   2331361
+
+   micro avg       0.91      0.91      0.91  12965615
+   macro avg       0.95      0.76      0.81  12965615
+weighted avg       0.92      0.91      0.90  12965615
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-9.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-9.csv
+Loading dataset ...
+... using feature selection: 15 features
+Training the model ...
+... Training took 994.4285876750946s
+Performing predictions on testset ...
+... Inference took 18.88882064819336s
+Accuracy: 0.9729120261101221 (8452201 Samples)
+Accuracy on malicious class: 0.19543562610229276 (283500 Samples)
+Accuracy on normal class: 0.9998948425214731 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.97      1.00      0.99   8168701
+   malicious       0.98      0.20      0.33    283500
+
+   micro avg       0.97      0.97      0.97   8452201
+   macro avg       0.98      0.60      0.66   8452201
+weighted avg       0.97      0.97      0.96   8452201
+
+Loading dataset ...
+... using feature selection: 15 features
+Swapping train and test-set
+Training the model ...
+... Training took 560.2540357112885s
+Performing predictions on testset ...
+... Inference took 28.430038452148438s
+Accuracy: 0.8391795198505895 (12927601 Samples)
+Accuracy on malicious class: 0.36487587791991355 (2293347 Samples)
+Accuracy on normal class: 0.9414662279084175 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.87      0.94      0.91  10634254
+   malicious       0.57      0.36      0.45   2293347
+
+   micro avg       0.84      0.84      0.84  12927601
+   macro avg       0.72      0.65      0.68  12927601
+weighted avg       0.82      0.84      0.82  12927601
+
+Total train time: 16010.818870544434s | Traintime/sample: 74.88759189886059us
+Total inference time: 486.7280251979828s | Inferencetime/sample: 2.2765787316364428us
+--- Metrics of normal class ---
+Precision (mean, std): (0.9462554801210261, 0.04908292581777878)
+Recall (mean, std): (0.9686681280858405, 0.027893957047013054)
+F1 (mean, std): (0.9563949064955954, 0.02729788788905634)
+
+--- Metrics of malicious class ---
+Precision (mean, std): (0.6712742334232544, 0.3453925615262566)
+Recall (mean, std): (0.5393791205113437, 0.26746674366161266)
+F1 (mean, std): (0.5129779892935625, 0.2673744151301271)
+Took: 18337.170961618423
+Using 10 of 20 features
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-0.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-0.csv
+Loading dataset ...
+... using feature selection: 10 features
+Training the model ...
+... Training took 812.5431632995605s
+Performing predictions on testset ...
+... Inference took 23.764984607696533s
+Accuracy: 0.9366944232622266 (10526387 Samples)
+Accuracy on malicious class: 0.7506381256876445 (2357686 Samples)
+Accuracy on normal class: 0.990394800837979 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.93      0.99      0.96   8168701
+   malicious       0.96      0.75      0.84   2357686
+
+   micro avg       0.94      0.94      0.94  10526387
+   macro avg       0.94      0.87      0.90  10526387
+weighted avg       0.94      0.94      0.93  10526387
+
+Loading dataset ...
+... using feature selection: 10 features
+Swapping train and test-set
+Training the model ...
+... Training took 831.7314245700836s
+Performing predictions on testset ...
+... Inference took 23.41469979286194s
+Accuracy: 0.9347516887541848 (10853415 Samples)
+Accuracy on malicious class: 0.6765026624262529 (219161 Samples)
+Accuracy on normal class: 0.9400739346643403 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.99      0.94      0.97  10634254
+   malicious       0.19      0.68      0.30    219161
+
+   micro avg       0.93      0.93      0.93  10853415
+   macro avg       0.59      0.81      0.63  10853415
+weighted avg       0.98      0.93      0.95  10853415
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-1.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-1.csv
+Loading dataset ...
+... using feature selection: 10 features
+Training the model ...
+... Training took 1051.5342433452606s
+Performing predictions on testset ...
+... Inference took 18.411292552947998s
+Accuracy: 0.9840621747079502 (8458745 Samples)
+Accuracy on malicious class: 0.5374425949166334 (290044 Samples)
+Accuracy on normal class: 0.9999201831478469 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.98      1.00      0.99   8168701
+   malicious       1.00      0.54      0.70    290044
+
+   micro avg       0.98      0.98      0.98   8458745
+   macro avg       0.99      0.77      0.84   8458745
+weighted avg       0.98      0.98      0.98   8458745
+
+Loading dataset ...
+... using feature selection: 10 features
+Swapping train and test-set
+Training the model ...
+... Training took 570.1685252189636s
+Performing predictions on testset ...
+... Inference took 27.6309711933136s
+Accuracy: 0.8759483067058678 (12921057 Samples)
+Accuracy on malicious class: 0.5775206696860202 (2286803 Samples)
+Accuracy on normal class: 0.9401225511446313 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.91      0.94      0.93  10634254
+   malicious       0.67      0.58      0.62   2286803
+
+   micro avg       0.88      0.88      0.88  12921057
+   macro avg       0.79      0.76      0.77  12921057
+weighted avg       0.87      0.88      0.87  12921057
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-2.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-2.csv
+Loading dataset ...
+... using feature selection: 10 features
+Training the model ...
+... Training took 834.8059453964233s
+Performing predictions on testset ...
+... Inference took 23.74989938735962s
+Accuracy: 0.8457952389959096 (10505389 Samples)
+Accuracy on malicious class: 0.3825200454660614 (2336688 Samples)
+Accuracy on normal class: 0.9783168706995151 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.85      0.98      0.91   8168701
+   malicious       0.83      0.38      0.52   2336688
+
+   micro avg       0.85      0.85      0.85  10505389
+   macro avg       0.84      0.68      0.72  10505389
+weighted avg       0.84      0.85      0.82  10505389
+
+Loading dataset ...
+... using feature selection: 10 features
+Swapping train and test-set
+Training the model ...
+... Training took 815.4509689807892s
+Performing predictions on testset ...
+... Inference took 23.333842754364014s
+Accuracy: 0.9304985013903739 (10874413 Samples)
+Accuracy on malicious class: 0.4973871476813278 (240159 Samples)
+Accuracy on normal class: 0.9402796848749334 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.99      0.94      0.96  10634254
+   malicious       0.16      0.50      0.24    240159
+
+   micro avg       0.93      0.93      0.93  10874413
+   macro avg       0.57      0.72      0.60  10874413
+weighted avg       0.97      0.93      0.95  10874413
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-3.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-3.csv
+Loading dataset ...
+... using feature selection: 10 features
+Training the model ...
+... Training took 944.4626343250275s
+Performing predictions on testset ...
+... Inference took 21.752490758895874s
+Accuracy: 0.9176292032810275 (9454965 Samples)
+Accuracy on malicious class: 0.5753515607993382 (1286264 Samples)
+Accuracy on normal class: 0.9715250931574065 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.94      0.97      0.95   8168701
+   malicious       0.76      0.58      0.66   1286264
+
+   micro avg       0.92      0.92      0.92   9454965
+   macro avg       0.85      0.77      0.80   9454965
+weighted avg       0.91      0.92      0.91   9454965
+
+Loading dataset ...
+... using feature selection: 10 features
+Swapping train and test-set
+Training the model ...
+... Training took 701.2381134033203s
+Performing predictions on testset ...
+... Inference took 25.878283262252808s
+Accuracy: 0.8447127621115492 (11924837 Samples)
+Accuracy on malicious class: 0.04690128414832676 (1290583 Samples)
+Accuracy on normal class: 0.9415359083956429 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.89      0.94      0.92  10634254
+   malicious       0.09      0.05      0.06   1290583
+
+   micro avg       0.84      0.84      0.84  11924837
+   macro avg       0.49      0.49      0.49  11924837
+weighted avg       0.80      0.84      0.82  11924837
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-4.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-4.csv
+Loading dataset ...
+... using feature selection: 10 features
+Training the model ...
+... Training took 782.7556557655334s
+Performing predictions on testset ...
+... Inference took 24.19987154006958s
+Accuracy: 0.8488546852747013 (10693087 Samples)
+Accuracy on malicious class: 0.37251830742208203 (2524386 Samples)
+Accuracy on normal class: 0.9960576351123637 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.84      1.00      0.91   8168701
+   malicious       0.97      0.37      0.54   2524386
+
+   micro avg       0.85      0.85      0.85  10693087
+   macro avg       0.90      0.68      0.72  10693087
+weighted avg       0.87      0.85      0.82  10693087
+
+Loading dataset ...
+... using feature selection: 10 features
+Swapping train and test-set
+Training the model ...
+... Training took 859.3935332298279s
+Performing predictions on testset ...
+... Inference took 22.78064465522766s
+Accuracy: 0.9384152192699066 (10686715 Samples)
+Accuracy on malicious class: 0.541468900707192 (52461 Samples)
+Accuracy on normal class: 0.9403734385129413 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       1.00      0.94      0.97  10634254
+   malicious       0.04      0.54      0.08     52461
+
+   micro avg       0.94      0.94      0.94  10686715
+   macro avg       0.52      0.74      0.52  10686715
+weighted avg       0.99      0.94      0.96  10686715
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-5.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-5.csv
+Loading dataset ...
+... using feature selection: 10 features
+Training the model ...
+... Training took 1013.8971755504608s
+Performing predictions on testset ...
+... Inference took 18.674381494522095s
+Accuracy: 0.964605462907236 (8502103 Samples)
+Accuracy on malicious class: 0.18915603385702545 (333402 Samples)
+Accuracy on normal class: 0.9962550961285032 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.97      1.00      0.98   8168701
+   malicious       0.67      0.19      0.30    333402
+
+   micro avg       0.96      0.96      0.96   8502103
+   macro avg       0.82      0.59      0.64   8502103
+weighted avg       0.96      0.96      0.95   8502103
+
+Loading dataset ...
+... using feature selection: 10 features
+Swapping train and test-set
+Training the model ...
+... Training took 600.2972440719604s
+Performing predictions on testset ...
+... Inference took 27.62519121170044s
+Accuracy: 0.8278814406207196 (12877699 Samples)
+Accuracy on malicious class: 0.29196704175943694 (2243445 Samples)
+Accuracy on normal class: 0.9409400979137794 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.86      0.94      0.90  10634254
+   malicious       0.51      0.29      0.37   2243445
+
+   micro avg       0.83      0.83      0.83  12877699
+   macro avg       0.69      0.62      0.64  12877699
+weighted avg       0.80      0.83      0.81  12877699
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-6.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-6.csv
+Loading dataset ...
+... using feature selection: 10 features
+Training the model ...
+... Training took 973.84983086586s
+Performing predictions on testset ...
+... Inference took 21.85725474357605s
+Accuracy: 0.8755651875953278 (9551917 Samples)
+Accuracy on malicious class: 0.14096135383049357 (1383216 Samples)
+Accuracy on normal class: 0.9999565414378614 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.87      1.00      0.93   8168701
+   malicious       1.00      0.14      0.25   1383216
+
+   micro avg       0.88      0.88      0.88   9551917
+   macro avg       0.94      0.57      0.59   9551917
+weighted avg       0.89      0.88      0.83   9551917
+
+Loading dataset ...
+... using feature selection: 10 features
+Swapping train and test-set
+Training the model ...
+... Training took 717.9151747226715s
+Performing predictions on testset ...
+... Inference took 25.6468186378479s
+Accuracy: 0.9246834070503729 (11827885 Samples)
+Accuracy on malicious class: 0.8016405405020479 (1193631 Samples)
+Accuracy on normal class: 0.9384942281799927 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.98      0.94      0.96  10634254
+   malicious       0.59      0.80      0.68   1193631
+
+   micro avg       0.92      0.92      0.92  11827885
+   macro avg       0.79      0.87      0.82  11827885
+weighted avg       0.94      0.92      0.93  11827885
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-7.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-7.csv
+Loading dataset ...
+... using feature selection: 10 features
+Training the model ...
+... Training took 778.8523540496826s
+Performing predictions on testset ...
+... Inference took 23.846550464630127s
+Accuracy: 0.8594755061470746 (10593413 Samples)
+Accuracy on malicious class: 0.3861419418058722 (2424712 Samples)
+Accuracy on normal class: 0.999974904210596 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.85      1.00      0.92   8168701
+   malicious       1.00      0.39      0.56   2424712
+
+   micro avg       0.86      0.86      0.86  10593413
+   macro avg       0.92      0.69      0.74  10593413
+weighted avg       0.88      0.86      0.83  10593413
+
+Loading dataset ...
+... using feature selection: 10 features
+Swapping train and test-set
+Training the model ...
+... Training took 840.5624918937683s
+Performing predictions on testset ...
+... Inference took 23.348122119903564s
+Accuracy: 0.9357927847771854 (10786389 Samples)
+Accuracy on malicious class: 0.6127649784730667 (152135 Samples)
+Accuracy on normal class: 0.9404140619548865 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.99      0.94      0.97  10634254
+   malicious       0.13      0.61      0.21    152135
+
+   micro avg       0.94      0.94      0.94  10786389
+   macro avg       0.56      0.78      0.59  10786389
+weighted avg       0.98      0.94      0.96  10786389
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-8.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-8.csv
+Loading dataset ...
+... using feature selection: 10 features
+Training the model ...
+... Training took 985.2988846302032s
+Performing predictions on testset ...
+... Inference took 18.098284244537354s
+Accuracy: 0.9393815469040562 (8414187 Samples)
+Accuracy on malicious class: 0.1809064468034837 (245486 Samples)
+Accuracy on normal class: 0.9621752589548815 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.98      0.96      0.97   8168701
+   malicious       0.13      0.18      0.15    245486
+
+   micro avg       0.94      0.94      0.94   8414187
+   macro avg       0.55      0.57      0.56   8414187
+weighted avg       0.95      0.94      0.94   8414187
+
+Loading dataset ...
+... using feature selection: 10 features
+Swapping train and test-set
+Training the model ...
+... Training took 611.2106652259827s
+Performing predictions on testset ...
+... Inference took 27.717297315597534s
+Accuracy: 0.8904952059736464 (12965615 Samples)
+Accuracy on malicious class: 0.39343113314497413 (2331361 Samples)
+Accuracy on normal class: 0.9994671934674496 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.88      1.00      0.94  10634254
+   malicious       0.99      0.39      0.56   2331361
+
+   micro avg       0.89      0.89      0.89  12965615
+   macro avg       0.94      0.70      0.75  12965615
+weighted avg       0.90      0.89      0.87  12965615
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-9.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-9.csv
+Loading dataset ...
+... using feature selection: 10 features
+Training the model ...
+... Training took 1012.171190738678s
+Performing predictions on testset ...
+... Inference took 18.182071685791016s
+Accuracy: 0.9709824695366331 (8452201 Samples)
+Accuracy on malicious class: 0.1625925925925926 (283500 Samples)
+Accuracy on normal class: 0.999038157964161 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.97      1.00      0.99   8168701
+   malicious       0.85      0.16      0.27    283500
+
+   micro avg       0.97      0.97      0.97   8452201
+   macro avg       0.91      0.58      0.63   8452201
+weighted avg       0.97      0.97      0.96   8452201
+
+Loading dataset ...
+... using feature selection: 10 features
+Swapping train and test-set
+Training the model ...
+... Training took 587.6840715408325s
+Performing predictions on testset ...
+... Inference took 27.42680287361145s
+Accuracy: 0.8291382910100644 (12927601 Samples)
+Accuracy on malicious class: 0.30949394051576146 (2293347 Samples)
+Accuracy on normal class: 0.9412030218574805 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.86      0.94      0.90  10634254
+   malicious       0.53      0.31      0.39   2293347
+
+   micro avg       0.83      0.83      0.83  12927601
+   macro avg       0.70      0.63      0.65  12927601
+weighted avg       0.80      0.83      0.81  12927601
+
+Total train time: 16325.82329082489s | Traintime/sample: 76.3609657882935us
+Total inference time: 467.33975529670715s | Inferencetime/sample: 2.1858937482054657us
+--- Metrics of normal class ---
+Precision (mean, std): (0.9265181412018532, 0.05701334066874783)
+Recall (mean, std): (0.9678259331308595, 0.026576547841668494)
+F1 (mean, std): (0.9454082417014105, 0.029002831868847213)
+
+--- Metrics of malicious class ---
+Precision (mean, std): (0.6039357491630846, 0.3496551565438339)
+Recall (mean, std): (0.4213653651112816, 0.208478158401567)
+F1 (mean, std): (0.41488591946618936, 0.21950602707476657)
+Took: 18396.785449504852
+Using 5 of 20 features
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-0.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-0.csv
+Loading dataset ...
+... using feature selection: 5 features
+Training the model ...
+... Training took 823.0901899337769s
+Performing predictions on testset ...
+... Inference took 25.010854244232178s
+Accuracy: 0.9436111364706617 (10526387 Samples)
+Accuracy on malicious class: 0.7493097045153595 (2357686 Samples)
+Accuracy on normal class: 0.9996912605810887 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.93      1.00      0.96   8168701
+   malicious       1.00      0.75      0.86   2357686
+
+   micro avg       0.94      0.94      0.94  10526387
+   macro avg       0.97      0.87      0.91  10526387
+weighted avg       0.95      0.94      0.94  10526387
+
+Loading dataset ...
+... using feature selection: 5 features
+Swapping train and test-set
+Training the model ...
+... Training took 861.4621479511261s
+Performing predictions on testset ...
+... Inference took 24.826613426208496s
+Accuracy: 0.9845574872056398 (10853415 Samples)
+Accuracy on malicious class: 0.5638183800949986 (219161 Samples)
+Accuracy on normal class: 0.9932284859850066 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.99      0.99      0.99  10634254
+   malicious       0.63      0.56      0.60    219161
+
+   micro avg       0.98      0.98      0.98  10853415
+   macro avg       0.81      0.78      0.79  10853415
+weighted avg       0.98      0.98      0.98  10853415
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-1.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-1.csv
+Loading dataset ...
+... using feature selection: 5 features
+Training the model ...
+... Training took 1069.6449165344238s
+Performing predictions on testset ...
+... Inference took 19.630022048950195s
+Accuracy: 0.9803340802920528 (8458745 Samples)
+Accuracy on malicious class: 0.4313035263615176 (290044 Samples)
+Accuracy on normal class: 0.9998283692841738 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.98      1.00      0.99   8168701
+   malicious       0.99      0.43      0.60    290044
+
+   micro avg       0.98      0.98      0.98   8458745
+   macro avg       0.98      0.72      0.80   8458745
+weighted avg       0.98      0.98      0.98   8458745
+
+Loading dataset ...
+... using feature selection: 5 features
+Swapping train and test-set
+Training the model ...
+... Training took 597.798556804657s
+Performing predictions on testset ...
+... Inference took 29.497353553771973s
+Accuracy: 0.9510478128840388 (12921057 Samples)
+Accuracy on malicious class: 0.7399570492079991 (2286803 Samples)
+Accuracy on normal class: 0.9964410291497645 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.95      1.00      0.97  10634254
+   malicious       0.98      0.74      0.84   2286803
+
+   micro avg       0.95      0.95      0.95  12921057
+   macro avg       0.96      0.87      0.91  12921057
+weighted avg       0.95      0.95      0.95  12921057
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-2.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-2.csv
+Loading dataset ...
+... using feature selection: 5 features
+Training the model ...
+... Training took 851.3596076965332s
+Performing predictions on testset ...
+... Inference took 24.835516452789307s
+Accuracy: 0.9446509786548599 (10505389 Samples)
+Accuracy on malicious class: 0.752236070883233 (2336688 Samples)
+Accuracy on normal class: 0.9996919950919981 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.93      1.00      0.97   8168701
+   malicious       1.00      0.75      0.86   2336688
+
+   micro avg       0.94      0.94      0.94  10505389
+   macro avg       0.97      0.88      0.91  10505389
+weighted avg       0.95      0.94      0.94  10505389
+
+Loading dataset ...
+... using feature selection: 5 features
+Swapping train and test-set
+Training the model ...
+... Training took 848.2158200740814s
+Performing predictions on testset ...
+... Inference took 25.016569137573242s
+Accuracy: 0.983856783809848 (10874413 Samples)
+Accuracy on malicious class: 0.5185897676122901 (240159 Samples)
+Accuracy on normal class: 0.9943641556803138 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.99      0.99      0.99  10634254
+   malicious       0.68      0.52      0.59    240159
+
+   micro avg       0.98      0.98      0.98  10874413
+   macro avg       0.83      0.76      0.79  10874413
+weighted avg       0.98      0.98      0.98  10874413
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-3.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-3.csv
+Loading dataset ...
+... using feature selection: 5 features
+Training the model ...
+... Training took 954.8278279304504s
+Performing predictions on testset ...
+... Inference took 22.261483907699585s
+Accuracy: 0.9398564669462023 (9454965 Samples)
+Accuracy on malicious class: 0.5598399706436625 (1286264 Samples)
+Accuracy on normal class: 0.9996948107171507 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.94      1.00      0.97   8168701
+   malicious       1.00      0.56      0.72   1286264
+
+   micro avg       0.94      0.94      0.94   9454965
+   macro avg       0.97      0.78      0.84   9454965
+weighted avg       0.94      0.94      0.93   9454965
+
+Loading dataset ...
+... using feature selection: 5 features
+Swapping train and test-set
+Training the model ...
+... Training took 724.487494468689s
+Performing predictions on testset ...
+... Inference took 27.018892288208008s
+Accuracy: 0.9154981321757271 (11924837 Samples)
+Accuracy on malicious class: 0.2385666012956935 (1290583 Samples)
+Accuracy on normal class: 0.9976511751553048 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.92      1.00      0.95  10634254
+   malicious       0.92      0.24      0.38   1290583
+
+   micro avg       0.92      0.92      0.92  11924837
+   macro avg       0.92      0.62      0.67  11924837
+weighted avg       0.92      0.92      0.89  11924837
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-4.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-4.csv
+Loading dataset ...
+... using feature selection: 5 features
+Training the model ...
+... Training took 838.3131601810455s
+Performing predictions on testset ...
+... Inference took 25.252140045166016s
+Accuracy: 0.8475415939288626 (10693087 Samples)
+Accuracy on malicious class: 0.35460820967950224 (2524386 Samples)
+Accuracy on normal class: 0.999873541705101 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.83      1.00      0.91   8168701
+   malicious       1.00      0.35      0.52   2524386
+
+   micro avg       0.85      0.85      0.85  10693087
+   macro avg       0.92      0.68      0.72  10693087
+weighted avg       0.87      0.85      0.82  10693087
+
+Loading dataset ...
+... using feature selection: 5 features
+Swapping train and test-set
+Training the model ...
+... Training took 883.8774287700653s
+Performing predictions on testset ...
+... Inference took 24.698914051055908s
+Accuracy: 0.9903749655530254 (10686715 Samples)
+Accuracy on malicious class: 0.42473456472427135 (52461 Samples)
+Accuracy on normal class: 0.9931653879999481 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       1.00      0.99      1.00  10634254
+   malicious       0.23      0.42      0.30     52461
+
+   micro avg       0.99      0.99      0.99  10686715
+   macro avg       0.62      0.71      0.65  10686715
+weighted avg       0.99      0.99      0.99  10686715
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-5.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-5.csv
+Loading dataset ...
+... using feature selection: 5 features
+Training the model ...
+... Training took 1064.2927570343018s
+Performing predictions on testset ...
+... Inference took 19.868093013763428s
+Accuracy: 0.9690871776077048 (8502103 Samples)
+Accuracy on malicious class: 0.21934481496811656 (333402 Samples)
+Accuracy on normal class: 0.9996875880265418 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.97      1.00      0.98   8168701
+   malicious       0.97      0.22      0.36    333402
+
+   micro avg       0.97      0.97      0.97   8502103
+   macro avg       0.97      0.61      0.67   8502103
+weighted avg       0.97      0.97      0.96   8502103
+
+Loading dataset ...
+... using feature selection: 5 features
+Swapping train and test-set
+Training the model ...
+... Training took 609.7936453819275s
+Performing predictions on testset ...
+... Inference took 29.664433240890503s
+Accuracy: 0.8941364447173366 (12877699 Samples)
+Accuracy on malicious class: 0.4033292547844944 (2243445 Samples)
+Accuracy on normal class: 0.997679103771642 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.89      1.00      0.94  10634254
+   malicious       0.97      0.40      0.57   2243445
+
+   micro avg       0.89      0.89      0.89  12877699
+   macro avg       0.93      0.70      0.75  12877699
+weighted avg       0.90      0.89      0.88  12877699
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-6.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-6.csv
+Loading dataset ...
+... using feature selection: 5 features
+Training the model ...
+... Training took 941.6032345294952s
+Performing predictions on testset ...
+... Inference took 22.662505388259888s
+Accuracy: 0.8801172581378167 (9551917 Samples)
+Accuracy on malicious class: 0.17260717053591051 (1383216 Samples)
+Accuracy on normal class: 0.9999207952402713 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.88      1.00      0.93   8168701
+   malicious       1.00      0.17      0.29   1383216
+
+   micro avg       0.88      0.88      0.88   9551917
+   macro avg       0.94      0.59      0.61   9551917
+weighted avg       0.89      0.88      0.84   9551917
+
+Loading dataset ...
+... using feature selection: 5 features
+Swapping train and test-set
+Training the model ...
+... Training took 731.3590443134308s
+Performing predictions on testset ...
+... Inference took 26.825987815856934s
+Accuracy: 0.9587155269095025 (11827885 Samples)
+Accuracy on malicious class: 0.6145391666268721 (1193631 Samples)
+Accuracy on normal class: 0.9973472516266774 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.96      1.00      0.98  10634254
+   malicious       0.96      0.61      0.75   1193631
+
+   micro avg       0.96      0.96      0.96  11827885
+   macro avg       0.96      0.81      0.86  11827885
+weighted avg       0.96      0.96      0.95  11827885
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-7.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-7.csv
+Loading dataset ...
+... using feature selection: 5 features
+Training the model ...
+... Training took 852.074985742569s
+Performing predictions on testset ...
+... Inference took 25.102518796920776s
+Accuracy: 0.8669422215484283 (10593413 Samples)
+Accuracy on malicious class: 0.41901264974974345 (2424712 Samples)
+Accuracy on normal class: 0.999900963445718 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.85      1.00      0.92   8168701
+   malicious       1.00      0.42      0.59   2424712
+
+   micro avg       0.87      0.87      0.87  10593413
+   macro avg       0.93      0.71      0.76  10593413
+weighted avg       0.89      0.87      0.85  10593413
+
+Loading dataset ...
+... using feature selection: 5 features
+Swapping train and test-set
+Training the model ...
+... Training took 841.0232956409454s
+Performing predictions on testset ...
+... Inference took 24.81392478942871s
+Accuracy: 0.9881512710138676 (10786389 Samples)
+Accuracy on malicious class: 0.6221776711473362 (152135 Samples)
+Accuracy on normal class: 0.993386936215742 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.99      0.99      0.99  10634254
+   malicious       0.57      0.62      0.60    152135
+
+   micro avg       0.99      0.99      0.99  10786389
+   macro avg       0.78      0.81      0.80  10786389
+weighted avg       0.99      0.99      0.99  10786389
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-8.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-8.csv
+Loading dataset ...
+... using feature selection: 5 features
+Training the model ...
+... Training took 1063.1230189800262s
+Performing predictions on testset ...
+... Inference took 19.712019205093384s
+Accuracy: 0.9687445738964442 (8414187 Samples)
+Accuracy on malicious class: 0.17907334837831893 (245486 Samples)
+Accuracy on normal class: 0.9924757926627502 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.98      0.99      0.98   8168701
+   malicious       0.42      0.18      0.25    245486
+
+   micro avg       0.97      0.97      0.97   8414187
+   macro avg       0.70      0.59      0.62   8414187
+weighted avg       0.96      0.97      0.96   8414187
+
+Loading dataset ...
+... using feature selection: 5 features
+Swapping train and test-set
+Training the model ...
+... Training took 601.4061779975891s
+Performing predictions on testset ...
+... Inference took 29.81892156600952s
+Accuracy: 0.8928413345606823 (12965615 Samples)
+Accuracy on malicious class: 0.40622151610153895 (2331361 Samples)
+Accuracy on normal class: 0.9995236149145958 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.88      1.00      0.94  10634254
+   malicious       0.99      0.41      0.58   2331361
+
+   micro avg       0.89      0.89      0.89  12965615
+   macro avg       0.94      0.70      0.76  12965615
+weighted avg       0.90      0.89      0.87  12965615
+
+Processing: train_by_hosts-1-0.5-0.5-H-all-lite-features-9.csv, test_by_hosts-1-0.5-0.5-H-all-lite-features-9.csv
+Loading dataset ...
+... using feature selection: 5 features
+Training the model ...
+... Training took 1063.7375617027283s
+Performing predictions on testset ...
+... Inference took 19.855656623840332s
+Accuracy: 0.9723325320824717 (8452201 Samples)
+Accuracy on malicious class: 0.1833721340388007 (283500 Samples)
+Accuracy on normal class: 0.9997139080007947 (8168701 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.97      1.00      0.99   8168701
+   malicious       0.96      0.18      0.31    283500
+
+   micro avg       0.97      0.97      0.97   8452201
+   macro avg       0.96      0.59      0.65   8452201
+weighted avg       0.97      0.97      0.96   8452201
+
+Loading dataset ...
+... using feature selection: 5 features
+Swapping train and test-set
+Training the model ...
+... Training took 598.713707447052s
+Performing predictions on testset ...
+... Inference took 29.821686029434204s
+Accuracy: 0.9083972347228229 (12927601 Samples)
+Accuracy on malicious class: 0.4910103006653594 (2293347 Samples)
+Accuracy on normal class: 0.9984094794049493 (10634254 Samples)
+              precision    recall  f1-score   support
+
+      normal       0.90      1.00      0.95  10634254
+   malicious       0.99      0.49      0.66   2293347
+
+   micro avg       0.91      0.91      0.91  12927601
+   macro avg       0.94      0.74      0.80  12927601
+weighted avg       0.92      0.91      0.90  12927601
+
+Total train time: 16820.204579114914s | Traintime/sample: 78.67334121763575us
+Total inference time: 496.1941056251526s | Inferencetime/sample: 2.3208545412401507us
+--- Metrics of normal class ---
+Precision (mean, std): (0.9364409467501822, 0.04850384034970964)
+Recall (mean, std): (0.9975837822329767, 0.0026627063152802554)
+F1 (mean, std): (0.9653455973961533, 0.025451204756803358)
+
+--- Metrics of malicious class ---
+Precision (mean, std): (0.8626444304235728, 0.22166802580712064)
+Recall (mean, std): (0.45218259360075086, 0.18540815262449878)
+F1 (mean, std): (0.5606103218374886, 0.18762035205891758)
+Took: 18759.398783922195
+##### SUMMARY #####
+20 of 21 features
+Precision (mean, std): (0.6632977340591295, 0.3321227184309946)
+Recall (mean, std): (0.5760860692783187, 0.2603355912366752)
+F1 (mean, std): (0.5319636484569699, 0.25682428030926396)
+
+15 of 21 features
+Precision (mean, std): (0.6712742334232544, 0.3453925615262566)
+Recall (mean, std): (0.5393791205113437, 0.26746674366161266)
+F1 (mean, std): (0.5129779892935625, 0.2673744151301271)
+
+10 of 21 features
+Precision (mean, std): (0.6039357491630846, 0.3496551565438339)
+Recall (mean, std): (0.4213653651112816, 0.208478158401567)
+F1 (mean, std): (0.41488591946618936, 0.21950602707476657)
+
+5 of 21 features
+Precision (mean, std): (0.8626444304235728, 0.22166802580712064)
+Recall (mean, std): (0.45218259360075086, 0.18540815262449878)
+F1 (mean, std): (0.5606103218374886, 0.18762035205891758)
+
+
